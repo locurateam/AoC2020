@@ -141,3 +141,7 @@ hs_err_pid*
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,vscode,java
+
+resources/input/*
+
+target/
